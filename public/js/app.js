@@ -44367,7 +44367,7 @@ __WEBPACK_IMPORTED_MODULE_0_vue___default.a.use(__WEBPACK_IMPORTED_MODULE_1_vuex
 
 
 
-var store = __WEBPACK_IMPORTED_MODULE_1_vuex__["a" /* default */].Store({
+var store = new __WEBPACK_IMPORTED_MODULE_1_vuex__["a" /* default */].Store({
     modules: {
         categories: __WEBPACK_IMPORTED_MODULE_2__modules_categories_categories__["a" /* default */]
     }

@@ -1,7 +1,5 @@
 <template>
-    <div>
-          <h1>Component de categorias</h1>
-    </div>
+    <h1>Component de Teste</h1>
 </template>
 
 <script>

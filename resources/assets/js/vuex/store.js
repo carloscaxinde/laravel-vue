@@ -5,7 +5,7 @@ Vue.use(Vuex)
 
 import Categories from './modules/categories/categories'
 
-const store = Vuex.Store({
+const store = new Vuex.Store({
     modules: {
         categories: Categories
     }
